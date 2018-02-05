@@ -1,0 +1,38 @@
+.me{
+	background: dodgerblue;
+	font-family: 'Times New Roman',Times,serif;
+	font-style: oblique;
+	}
+.form-horizantal{
+	border: 4px black ridge;
+	
+}
+body{
+	background: url("761.jpg");
+	border-image-repeat: no-repeat;
+	background-image: no-repeat;
+}
+.footer{
+	background:url(clear.jpg);
+}
+.form-horizantal{
+	background: transparent;
+	margin-bottom: 0.5px;
+
+}
+.poo{
+	background: transparent;
+}
+.loo{
+	background: black;
+}
+
+.doo{
+	background:	transparent;
+}
+.jumbotron{
+	background: transparent;
+}
+.text{
+	color: white;
+}
